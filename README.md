@@ -1,3 +1,13 @@
+This project enables userr user to keep track of their work
+Using this they can make their notes and can delte them
+User have to sign in/out to make the notes so that their data
+Gets saved on cloud 
+So that they can acess it anywhere anytime
+For frontend HTML CSS React and javascript is used to design 
+The front end
+Firebase is used for cloud functionalities like login and saving data 
+In cloud data base
+
 # About Project
 
 ### With the help of this project, you can keep your notes very easily.
